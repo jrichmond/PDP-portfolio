@@ -1,0 +1,281 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\fnil\fcharset0 Tahoma;}
+{\colortbl;\red255\green255\blue255;\red31\green31\blue31;\red222\green27\blue36;\red0\green16\blue106;
+}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid401\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid5}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww9000\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\li160\ri540\sl400\ql\qnatural
+
+\f0\b\fs32 \cf0 Interview Guidelines for Applicants to PGDE Primary Education Programme
+\f1\b0\fs26 \cf2 \
+\
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 The interview programme consists of:
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl380\ql\qnatural
+\ls1\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}An introduction by School of Education staff
+\f1\fs26 \cf2 \
+\ls1\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}A group discussion
+\f1\fs26 \cf2 \
+\ls1\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}A written task
+\f1\fs26 \cf2 \
+\ls1\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}An individual interview
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 This programme is designed to provide applicants with an opportunity to demonstrate their knowledge, skills and abilities in a number of areas. The criteria for assessment of each element of the selection process are detailed in the interview guidelines below.\'a0
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 The interview programme lasts approximately 3 hours.
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\b\fs30 \cf0 Task 1.\'a0 Verification of Qualifications
+\f1\b0\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 Applicants 
+\b must
+\b0  bring their birth certificate or passport, examination certificates and marriage certificate (if applicable) as these will be checked during the interview.
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 Applicants 
+\b must
+\b0  bring evidence of their qualifications in English and Mathematics along with their degree scroll, if these qualifications have already been awarded.
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 We will only accept original copies of these documents. Photocopies will not be accepted.
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\b\fs30 \cf0 Task 2.\'a0 Interview Guidelines
+\f1\b0\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\b\fs30 \cf0 1.\'a0 Written Task
+\f1\b0\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 Applicants will required to write a short personal statement of approximately 300 words on a teaching related topic which will be given on the day.
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 Applicants will be assessed on their capacity to demonstrate clear structure and cohesion with acceptable conventions.
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\b\fs30 \cf0 2.\'a0 Group Discussion
+\f1\b0\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 Applicants will be required to participate in a group discussion along with 4 or 5 fellow applicants. The topic for this discussion can be found below. Refer to 'Article for Group Discussion' at the end of this message.
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 Applicants will be assessed on:
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl380\ql\qnatural
+\ls2\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Participation in the discussion
+\f1\fs26 \cf2 \
+\ls2\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Relevance of contributions
+\f1\fs26 \cf2 \
+\ls2\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Spoken language competence
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl320\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\b\fs30 \cf0 3.\'a0 Individual Interview
+\f1\b0\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 Applicants will be questioned by their interviewers about their past experiences of studying, working, any involvement of working with children and any knowledge of recent developments within the primary education system in Scotland.
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 Applicants will be assessed on the fluency and confidence of their responses, showing clarity of thought and a capacity for logical progression. In responding to the questions the interviewers will look for the applicants' knowledge of the areas raised and for their capacity to analyse their own education and experience and relate this to the role of the teacher.
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl320\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl400\ql\qnatural
+
+\f0\b\fs32 \cf0 PDGE Education Interview:\'a0 \cf3 Article for Group Discussion
+\f1\b0\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\b\fs30 \cf0 Effective Teachers: Pupil perspectives
+\f1\b0\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 What do pupils prefer in terms of how they learn in class? Pupils tend to be more motivated and enjoy learning when the teacher:
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl380\qj
+\ls3\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Uses a range of teaching styles;
+\f1\fs26 \cf2 \
+\ls3\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Delivers interesting lessons (more often than not);
+\f1\fs26 \cf2 \
+\ls3\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Uses practical work;
+\f1\fs26 \cf2 \
+\ls3\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Uses project work;
+\f1\fs26 \cf2 \
+\ls3\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Uses ICT in a relevant and meaningful way;
+\f1\fs26 \cf2 \
+\ls3\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Gives activities that prompt meaningful group work;
+\f1\fs26 \cf2 \
+\ls3\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Allows opportunities for problem solving activities;
+\f1\fs26 \cf2 \
+\ls3\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Can build positive teacher and pupil affect.
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 Teacher 
+\i affect
+\i0  is an important component in developing classroom ethos. The affective domain refers to the emotional world the teacher and pupils inhabit.\'a0 It is more than just emotion however, since it also takes in mood and feelings.\'a0 Mood, feeling and emotions can all have a powerful effect on our thinking processes and on how motivated we feel to learn.
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 Pupils also tend to prefer teachers to:
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl380\ql\qnatural
+\ls4\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Demonstrate respect for pupils.
+\f1\fs26 \cf2 \
+\ls4\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Be committed to fair treatment.
+\f1\fs26 \cf2 \
+\ls4\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Care for pupils.
+\f1\fs26 \cf2 \
+\ls4\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Be concerned for their educational progress.
+\f1\fs26 \cf2 \
+\ls4\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Help all pupils to reach their potential.
+\f1\fs26 \cf2 \
+\ls4\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Listen to pupils.
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 Pupils also appreciate teachers who model positive behaviours and interactions rather than ones who simply set rules and expect compliance. It is easier for pupils to understand what is expected of them if this is demonstrated rather than dictated. This is not to say that teachers should not communicate their expectations for appropriate behaviour clearly \'96 they should. But it might be worth thinking about how teachers are able to do this in a way that is most likely to ensure that pupils learn what behaviours are appropriate, rather than only knowing what they shouldn't do.
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 Key Questions
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl380\ql\qnatural
+\ls5\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Can you relate your experience as a pupil to this perspective of the effective teacher?
+\f1\fs26 \cf2 \
+\ls5\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Which styles of learning did you experience as a pupil?
+\f1\fs26 \cf2 \
+\ls5\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}How important is the affective domain from your experience?
+\f1\fs26 \cf2 \
+\ls5\ilvl0
+\f0\fs30 \cf0 {\listtext	\'95	}Thinking of a teacher you respect, what characteristics did they exhibit?
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri540\sl380\ql\qnatural
+
+\f0\fs30 \cf0 Article taken from PGDE(S) Professional Studies VLE Course 2007-08
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri700\sl380\ql\qnatural
+
+\f0\b\fs30 \cf0 This is an automatically generated email.\'a0 Do not reply directly to this message
+\b0 .
+\f1\fs26 \cf2 \
+\pard\pardeftab720\li160\ri540\sl340\ql\qnatural
+\cf2 \
+\pard\pardeftab720\li160\ri700\sl340\ql\qnatural
+
+\f0 \cf4 The University of Glasgow, charity number SC004401
+\f1 \cf2 \
+}
